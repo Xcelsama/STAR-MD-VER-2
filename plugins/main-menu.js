@@ -15,74 +15,36 @@ import {
 
  const defaultMenu = {
   before: `
- ────《 𝚵𝚾𝐂𝚵𝐋 》─────⊷
-┃ ╭──────────────◆
-┃ │ 🇸 🇹 🇦 🇷 -🇲 🇩 
-┃ ╰──────────────◆
-┃    ©ՏTᗩᖇ-ᗰᗪ-ᐯ2
-╰───────────────⊷
-  *%ucpn*
-⍟────────────────⍟
-ᎫϴᏆΝ ҒϴᎡ ՏႮᏢᏢϴᎡͲ
-↧↧↧↧↧↧↧↧↧
--https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
-⍟────────────────⍟
- *©ᎬХᏟᎬᏞ ᎪᎷᎪᎠᏆ*
-⍟────────────────⍟
-*_ՏᎪᏞႮͲᎪͲᏆϴΝՏ! ᏆͲՏ ՏͲᎪᎡ-ᎷᎠ Ꭺ_* 
-*_ᎷႮᏞͲᏆ-ᎠᎬᏙᏆᏟᎬ ᏔᎻᎪͲՏᎪᏢᏢ ᏴϴͲ_*
-*_ᎡᎬᏟϴᎠᎬᎠ  ᏴᎽ ᎬХᏟᎬᏞ_*
-⍟────────────────⍟  
-ᎫϴᏆΝ ҒϴᎡ ᏆΝҒϴ
-↧↧↧↧↧↧↧↧↧ 
-https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X
-⍟────────────────⍟
-                                                             
- ▄▀▀ ▀█▀  ▄▀▄ █▀▀▄ ░░
-░▀▄  ░█░  █▀█ █▐█▀ ▀▀
-▀▀░  ░▀░  ▀░▀ ▀░▀▀ ░░
-█▄░▄█ █▀▄
-█░█░█ █░█
-▀░░░▀ ▀▀░
-╭─────────────────⦿
-┃    🌠〘ᏆΝҒϴ〙🌠
-╰┬────────────────⦿
-┌┤*_ᎠᎬᏙᎬᏞϴᏢᎬᎡ_*:-ᎬХᏟᎬᏞ ᎪᎷᎪᎠᏆ
-┃ *_ᏴϴͲ ΝᎪᎷᎬ_* :ՏͲᎪᎡ-ᎷᎠ-Ꮩ2
-┃ *_ᎷϴᎠᎬ_*: %mode
-┃ *_ᎻϴՏͲ_*: ᏞᏆΝႮХ-ᏞᎪᏆᎡ
-┃ *_ͲᎽᏢᎬ_*: ᒪIᑎᑌ᙭
-┃ *_ᏴᎪᏆᏞᎬᎽՏ_*: ᗰᑌᒪTI ᗪᗴᐯIᑕᗴ
-┃ *_ᏢᎡᎬҒᏆХ_*: [ *%_p* ]
-┃ *_ႮᏢͲᏆᎷᎬ_*: %muptime
-┃ *_ᎠᎪͲᎪᏴᎪՏᎬ_*:  %totalreg
-┃ ©ՏTᗩᖇ-ᗰᗪ-ᐯ2
-╰──────────────────⦿
-╭──────────────────⦿
-┃  🌠〘ႮՏᎬᎡ〙🌠
-╰┬─────────────────⦿
-┌┤     
-┃ *_ΝᎪᎷᎬ_*: %name
-┃ *_ᏀϴᏞᎠ_*: %credit
-┃ *_ᏞᎬᏙᎬᏞ_*: %level [ %xp4levelup Xp For 
-┃Levelup]
-┃ *_ХᏢ_*: %exp / %maxexp
-┃ *_ͲϴͲᎪᏞ ХᏢ_*: %totalexp
-┃©ՏTᗩᖇ-ᗰᗪ-ᐯ2
-╰──────────────────⦿
-╭──────────────────⦿
-┃    🌠〘ͲϴͲᎪᏞ-ᏟᎷᎠ〙🌠
-╰┬─────────────────⦿
-┌┤ 
-┃ *_%totalfeatures_* Commands
-╰──────────────────⦿
-
-
+  │✪ - 「𝚂𝚃𝙰𝚁-𝙼𝙳-𝚅𝟸」 - ✪│\n
+  
+ 
+ 
+  ╭━━⊱『ℹ️𝙸𝙽𝙵𝙾ℹ️』⊱━━╮
+  ┆✪ *Mode:* %mode
+  ┆✪ *Platform:* %platform
+  ┆✪ *Type:* NodeJs
+  ┆✪ *Baileys:* Multi Device
+  ┆✪ *Prefix:* [ *%_p* ]
+  ┆✪ *Uptime:* %muptime
+  ┆✪ *Database:*  %totalreg
+  ╰━━━━━━━━━━━━━━━╯
+  
+ ╭━━✧「👥𝚄𝚂𝙴𝚁👥」✧━━─╮
+ ┆✪ *Name:* %name     ↺
+ ╰━━━━━━━━━━━━━━━━╸╯
+ 
+ *%ucpn*
+  
+  ╭━━⊱『 📡𝚃𝙾𝚃𝙰𝙻-𝙲𝙼𝙳📡』⊱━━╮ 
+  │📍 *%totalfeatures* Commands
+  ╰──────────☆★
+ %readmore
  `.trimStart(),
- header: "┌─⦿『 *_%category_* 』⦿",
- body: "┃⬡▸ %cmd %isPremium %islimit",
- footer: "╰─────────────────⦿",
- after: "\n%me",
+ header: "╭━━⊱ 「 *%category* 」⊱━━╮",
+ body: "  │✪ -  %cmd %isPremium %islimit",
+ footer: "╰━━━━━━━━━━━━━━━╯",
+ after: "https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X",
+
  }
  let handler = async (m, {
   conn,
@@ -92,7 +54,7 @@ https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X
  }) => {
   await conn.sendMessage(m.chat, {
    react: {
- text: "⏳",
+ text: "✅",
  key: m.key,
    }
   })
@@ -105,7 +67,7 @@ https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X
    let glb = global.db.data.users
    let usrs = glb[m.sender]
    let tag = `@${m.sender.split("@")[0]}`
-   let mode = process.env.MODE || (global.opts["self"] ? "Private" : "Public");
+   let mode = global.opts["self"] ? "Private" : "Public"
    let _package = JSON.parse(await promises.readFile(join(__dirname, "../package.json")).catch(_ => ({}))) || {}
    let {
  age,
@@ -215,20 +177,20 @@ https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X
  readmore: readMore
    }
    text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, "g"), (_, name) => "" + replace[name])
-   const pp = './Assets/STAR-V2.jpg'
+   const pp = (thumb)
 
 
  let contact = { key: { fromMe: false, participant: `${m.sender.split`@`[0]}@s.whatsapp.net`, ...(m.chat ? { remoteJid: '16504228206@s.whatsapp.net' } : {}) }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
 
   conn.sendMessage(m.chat, { video: { url: menuvid }, caption: text.trim(),  gifPlayback: true,
-  gifAttribution: 0}, { quoted: contact })
+  gifAttribution: 0}, { quoted: m })
 
   } catch (e) {
    await conn.reply(m.chat, " error", m)
    throw e
   }
  }
- handler.command = /^(menu|help|\?)$/i
+ handler.command = /^(menu|h2|hh|help2|\?)$/i
 
 
 
@@ -263,7 +225,7 @@ https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X
   const time = moment.tz("Asia/Kolkata").format("HH")
   let res = "Good morning ☀️"
   if (time >= 4) {
-   res = "Good Morning 🌄"
+   res = "Good Morning 🤗🌄"
   }
   if (time >= 10) {
    res = "Good Afternoon ☀️"
@@ -272,7 +234,7 @@ https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X
    res = "Good Afternoon 🌇"
   }
   if (time >= 18) {
-   res = "Good Night 🌙"
+   res = "Good Night 🌙😴"
   }
   return res
  }
